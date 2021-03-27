@@ -1,0 +1,7 @@
+{
+  "port": 5000,
+  "jwtSecret": "maxim",
+  "baseUrl": "http://localhost:5000",
+  "mongoUri": "mongodb+srv://maxim:1q2w3e4r@cluster0.imgi4.mongodb.net/app?retryWrites=true&w=majority"
+
+}
